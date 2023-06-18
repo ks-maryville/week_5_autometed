@@ -1,1 +1,1 @@
-# week_5_autometed
+# week_5_automated
